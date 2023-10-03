@@ -1,0 +1,40 @@
+@font-face {
+  font-family:Jim Nightshade ;
+  src: url(../Fonts/Jim_Nightshade/JimNightshade-Regular.ttf);
+}
+@font-face {
+  font-family: Indie_Flower;
+  src: url(../Fonts/Indie_Flower/IndieFlower-Regular.ttf);
+}
+.navbar{
+  position: sticky;
+}
+.navbar-row{
+  display: flex;
+  padding-top: 2%;
+}
+.logo{
+  flex: 60%;
+  padding: 0% 15%;
+  color: #FFF;
+  font-family: Jim Nightshade;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 400;
+  margin-top: 8px;
+}
+.nav-links{
+  list-style: none;
+  display: flex;
+  flex:40%;
+  gap:8%;
+  background-color: black;
+  transition:  0.3s ease-in-out; /* Animation transition */
+  cursor: pointer; 
+}
+.nav-links :hover
+{
+  color: rgb(115, 84, 200); /* New background color on hover */
+  transform: scale(1.1);
+}
+
