@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/css/main.da516f67.css",
+    "main.js": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/js/main.fc059b36.js",
+    "static/media/contact_page.png": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/media/contact_page.9faaff0e05738cb2817c.png",
+    "static/media/landingImage.png": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/media/landingImage.09883a526d9985734395.png",
+    "static/media/JimNightshade-Regular.ttf": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/media/JimNightshade-Regular.a78d7d82a8854212fd81.ttf",
+    "static/media/IndieFlower-Regular.ttf": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/media/IndieFlower-Regular.599d26584b9afc1d20b1.ttf",
+    "static/media/Audiowide-Regular.ttf": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/media/Audiowide-Regular.2017bdb174a62d0daa3e.ttf",
+    "static/media/AnnieUseYourTelescope-Regular - Copy.ttf": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/media/AnnieUseYourTelescope-Regular - Copy.03314b9de13cfb638a49.ttf",
+    "static/media/email.jpeg": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/media/email.78699251ee856f3b4416.jpeg",
+    "static/media/revicons.eot": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Shashank-k-prabhu.github.io/Photo-Landing-React/index.html",
+    "main.da516f67.css.map": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/css/main.da516f67.css.map",
+    "main.fc059b36.js.map": "/Shashank-k-prabhu.github.io/Photo-Landing-React/static/js/main.fc059b36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da516f67.css",
+    "static/js/main.fc059b36.js"
+  ]
+}
